@@ -14,7 +14,7 @@ This project is a Spring Boot application demonstrating basic CRUD (Create, Read
 
 - JDK 11 or later
 - Maven
-- An IDE like IntelliJ IDEA or Eclipse (optional)
+- An IDE like IntelliJ IDEA or Eclipse
 
 ## Getting Started
 
